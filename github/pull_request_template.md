@@ -5,5 +5,5 @@ Try Hard
 Learning git
 
 ### Check
-- [ ] Tested Changes
-- [ ] Stackholders Approval
+- [X] Tested Changes
+- [X] Stackholders Approval
